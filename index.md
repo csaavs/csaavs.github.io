@@ -6,7 +6,7 @@
 
 
 [Scraping Amazon Reviews](/sample_page)
-<iframe width="400" height="534" src="https://datastudio.google.com/embed/reporting/f5e59ce6-0834-40f1-9600-b3470c85dd7d/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://datastudio.google.com/embed/reporting/f5e59ce6-0834-40f1-9600-b3470c85dd7d/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
