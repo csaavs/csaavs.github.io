@@ -3,11 +3,11 @@ logo: "images/IMG_20190429_151351-1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Building best-in-class customer experiences,products and teams by turning data into insights.  
   <br><br>
-  <ul style="list-style-type:circle;">
-  <li>SQL</li>
-  <li>Python</li>
-  <li>Milk</li>
-</ul>  
+  <head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+  <body>
+  <i class="material-icons">cloud</i>
   SQL | Python | Google Apps Script | Google Data Studio | Tableau | Arduino
   <br><br>
   <a href="https://www.linkedin.com/in/cristina-saavedra-14b738107/">View My LinkedIn Profile</a> 
