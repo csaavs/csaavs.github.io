@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   </head>
   <body>
-  <ul style="list-style-type:none;">
+  <ul>
   <li><i class="material-icons">lightbulb_outline</i>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
-  </ul> 
+  </ul>  
   SQL <i class="material-icons">lightbulb_outline</i>
   Python <i class="material-icons">lightbulb_outline</i>
   Google Apps Script <i class="material-icons">lightbulb_outline</i>
