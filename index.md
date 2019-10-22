@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Python 
 
 
 [Scraping Amazon Reviews](/sample_page)
