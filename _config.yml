@@ -3,7 +3,7 @@ logo: "images/IMG_20190429_151351.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Building best-in-class customer experiences,products and teams by turning data into insights.  
   <br><br>
-   SQL * Python * Google Apps Script * Arduino
+  - [x] SQL  Python * Google Apps Script * Arduino
   <br><br>
   <a href="https://www.linkedin.com/in/cristina-saavedra-14b738107/">View My LinkedIn Profile</a> 
   
