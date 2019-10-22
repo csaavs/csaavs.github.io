@@ -8,7 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   </head>
   <body>
   <ul style="list-style-type:none;">
-  <li><i class="material-icons">lightbulb_outline</i>Coffee</li>
+  <i class="material-icons">lightbulb_outline</i>
+  <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul> 
