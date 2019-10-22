@@ -10,7 +10,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+https://datastudio.google.com/embed/reporting/f5e59ce6-0834-40f1-9600-b3470c85dd7d/page/1M
 
 ---
 [Project 3 Title](http://example.com/)
