@@ -2,8 +2,7 @@
 
 ---
 
-### Python 
-
+### Customer reviews scraping and analysis
 
 [Scraping Amazon Reviews](/sample_page)
 <iframe width="500" height="300" src="https://datastudio.google.com/embed/reporting/f5e59ce6-0834-40f1-9600-b3470c85dd7d/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
