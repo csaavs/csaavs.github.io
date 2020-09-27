@@ -34,6 +34,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See [Material Design Icon] to include icons in your Mardown.(https://google.github.io/material-design-icons/)
 
 ___
 
