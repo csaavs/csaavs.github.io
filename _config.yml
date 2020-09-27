@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <body>
     <i class="material-icons">lightbulb_outline</i>SQL 
-    <br><br> <i class="material-icons">lightbulb_outline</i>Python
+    <br> <i class="material-icons">lightbulb_outline</i>Python
     <i class="material-icons">lightbulb_outline</i>Google Apps Script
     <i class="material-icons">lightbulb_outline</i>Google Data Studio 
     <i class="material-icons">lightbulb_outline</i>Tableau
