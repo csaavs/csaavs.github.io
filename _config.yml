@@ -9,14 +9,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <body>
     <br><br><i class="material-icons">lightbulb_outline</i>SQL 
     <br><br><i class="material-icons">lightbulb_outline</i>Python
-  <br>
-  <i class="material-icons">lightbulb_outline</i>Google Apps Script
-  <br>
-  <i class="material-icons">lightbulb_outline</i>Google Data Studio 
-  <br>
-  <i class="material-icons">lightbulb_outline</i>Tableau
-  <br>
-  <i class="material-icons">lightbulb_outline</i>Arduino
+    <i class="material-icons">lightbulb_outline</i>Google Apps Script
+    <i class="material-icons">lightbulb_outline</i>Google Data Studio 
+    <i class="material-icons">lightbulb_outline</i>Tableau
+    <i class="material-icons">lightbulb_outline</i>Arduino
   <br><br>
   </body>
   <br><br>
